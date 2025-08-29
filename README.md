@@ -1,4 +1,4 @@
 # aapna-collagedemo
 This is my first repository.
 <br>
-athor-aayushi gadhiya
+author-aayushi gadhiya
